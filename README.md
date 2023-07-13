@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ##Installing, Building and Running the project locally
 
-1. The project can be downloaded as a zip folder.
+1. The project can be downloaded as a zip folder by clicking on Code--> Download Zip in GitHub.
 2. Unzip the Folder.
 3. Open the folder using VSCode or any other IDE.
 4. Open a new Terminal using VSCode and run the following command: npm install.
